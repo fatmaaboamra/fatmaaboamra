@@ -14,12 +14,12 @@ A Computer Science graduate passionate about turning complex datasets into inter
 
 ---
 
-### 📌 About Me
+###  About Me
 
-- 🔭 **Focus:** Building interactive Power BI dashboards, dimensional modeling, and end-to-end data analysis.
-- 🌱 **Learning & Exploring:** Predictive Machine Learning with Python and Cloud Data Workflows.
-- 💬 **Core Specialties:** Power BI (Advanced DAX & Star Schema), SQL, and Python (Pandas).
-- ⚡ **Passion:** Transforming messy, unorganized data into clear visual business stories.
+-  **Focus:** Building interactive Power BI dashboards, dimensional modeling, and end-to-end data analysis.
+-  **Learning & Exploring:** Predictive Machine Learning with Python and Cloud Data Workflows.
+-  **Core Specialties:** Power BI (Advanced DAX & Star Schema), SQL, and Python (Pandas).
+-  **Passion:** Transforming messy, unorganized data into clear visual business stories.
 
 ---
 
