@@ -1,4 +1,4 @@
-# Fatma Mohamed
+# Fatma Mohamed Aboamra
 **Data Analyst | BI & Analytics Specialist**
 
 Computer Science graduate specializing in transforming complex transactional data into actionable business intelligence, interactive reporting solutions, and structured data models. Experienced in dimensional modeling (Star Schema), statistical data exploration, and automating data pipelines to drive data-backed decision-making.
