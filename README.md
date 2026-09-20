@@ -58,9 +58,3 @@ A Computer Science graduate passionate about turning complex datasets into inter
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=fatmaaboamra&theme=one_dark_pro&hide_border=false" alt="GitHub Streak" width="97%" />
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fatmaaboamra&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
